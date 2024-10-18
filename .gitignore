@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+dist/
+build/
+public/
+
+# Dependency directories
+bower_components/
+
+# IDE or Editor specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tailwind CSS Cache
+.tailwindcss/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Miscellaneous
+*.sublime-project
+*.sublime-workspace
